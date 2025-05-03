@@ -1,0 +1,23 @@
+# === Java-related ===
+*.class
+*.jar
+*.war
+
+# === Eclipse-specific ===
+.classpath
+.project
+.settings/
+
+# === Build folders ===
+bin/
+target/
+
+# === OS-specific files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs and temp files ===
+*.log
+*.tmp
+*.bak
